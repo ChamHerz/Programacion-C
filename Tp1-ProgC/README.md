@@ -18,3 +18,14 @@
     * Solucion: [Tp1-ProgC-HTML-07](http://progc.epizy.com/Tp1-ProgC/Tp1-ProgC-HTML-04/punto-HTML-07.html)
 8. Generar 2 documentos HTML, uno que se llame doc1.html y doc2.html. En ambos documentos debe aparecer un encale `<a></a>` que lo vincule al otro.
     * Solucion: [Tp1-ProgC-HTML-08](http://progc.epizy.com/Tp1-ProgC/Tp1-ProgC-HTML-04/punto-HTML-08.html)
+
+### CSS
+1. Discutir ventajas y desventajas de utilizar estilos sobre como aplicar estilos gráficos a un sitio web.
+
+    a. Sobre cada etiqueta.
+    b. Definiendo estilos en cada cabecera del HTML.
+    c. Definiendo una hoja de estilos en un archivo CSS y referenciándola en cada archivo HTML.
+
+2. Generar un archivo CSS que defina el tipo de fuente, el tamaño y el color para todo un sitio. Realizar un documento HTML que vincule a ese archivo CSS en donde se pueda visualizar el formato generado.
+3. Generar un archivo CSS que defina un tipo de color distinto para cada una de las siguientes etiquetas HTML: `<p>, <h1>, <h2>, <h3>`.
+4. Generar un archivo CSS que defina estilos para el formato de los enlaces `<a></a>`
