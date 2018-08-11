@@ -21,11 +21,9 @@
 
 ### CSS
 1. Discutir ventajas y desventajas de utilizar estilos sobre como aplicar estilos gráficos a un sitio web.
-
-    a. Sobre cada etiqueta.
-    b. Definiendo estilos en cada cabecera del HTML.
-    c. Definiendo una hoja de estilos en un archivo CSS y referenciándola en cada archivo HTML.
-
+    - Sobre cada etiqueta.
+    - Definiendo estilos en cada cabecera del HTML.
+    - Definiendo una hoja de estilos en un archivo CSS y referenciándola en cada archivo HTML.
 2. Generar un archivo CSS que defina el tipo de fuente, el tamaño y el color para todo un sitio. Realizar un documento HTML que vincule a ese archivo CSS en donde se pueda visualizar el formato generado.
 3. Generar un archivo CSS que defina un tipo de color distinto para cada una de las siguientes etiquetas HTML: `<p>, <h1>, <h2>, <h3>`.
-4. Generar un archivo CSS que defina estilos para el formato de los enlaces `<a></a>`
+4. Generar un archivo CSS que defina estilos para el formato de los enlaces `<a></a>`.
