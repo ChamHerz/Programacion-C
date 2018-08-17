@@ -34,6 +34,9 @@
     * Solucion: [Tp1-ProgC-CSS-02](http://progc.epizy.com/Tp1-ProgC/Tp1-ProgC-CSS-02/punto-CSS-02.html)
 4. Generar un archivo CSS que defina estilos para el formato de los enlaces `<a></a>`.
     * Solucion: [Tp1-ProgC-CSS-03](http://progc.epizy.com/Tp1-ProgC/Tp1-ProgC-CSS-03/punto-CSS-03.html)
-=======
 3. Generar un archivo CSS que defina un tipo de color distinto para cada una de las siguientes etiquetas HTML: `<p>, <h1>, <h2>, <h3>`.
 4. Generar un archivo CSS que defina estilos para el formato de los enlaces `<a></a>`.
+
+### JAVASCRIPT
+1. Generar una alerta con JavaScript que salude al usuario al cargar la página.
+    * Solucion: [Tp1-ProgC-JS-01](http://progc.epizy.com/Tp1-ProgC/Tp1-ProgC-JS-01/punto-JS-01.html)
