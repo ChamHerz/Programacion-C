@@ -17,7 +17,7 @@
 7. Generar un documento HTML que tenga un enlace a `www.google.com` usando la `<a></a>`
     * Solucion: [Tp1-ProgC-HTML-07](http://progc.epizy.com/Tp1-ProgC/Tp1-ProgC-HTML-07/punto-HTML-07.html)
 8. Generar 2 documentos HTML, uno que se llame doc1.html y doc2.html. En ambos documentos debe aparecer un encale `<a></a>` que lo vincule al otro.
-    * Solucion: [Tp1-ProgC-HTML-08](http://progc.epizy.com/Tp1-ProgC/Tp1-ProgC-HTML-08/punto-HTML-08.html)
+    * Solucion: [Tp1-ProgC-HTML-08](http://progc.epizy.com/Tp1-ProgC/Tp1-ProgC-HTML-08/doc1.html)
 
 ### CSS
 1. Discutir ventajas y desventajas de utilizar estilos sobre como aplicar estilos gráficos a un sitio web.
