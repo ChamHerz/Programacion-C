@@ -37,4 +37,3 @@
 =======
 3. Generar un archivo CSS que defina un tipo de color distinto para cada una de las siguientes etiquetas HTML: `<p>, <h1>, <h2>, <h3>`.
 4. Generar un archivo CSS que defina estilos para el formato de los enlaces `<a></a>`.
->>>>>>> 1bbf6044a7b7990e95eca1923e7654402b9bd6af
