@@ -40,3 +40,5 @@
 ### JAVASCRIPT
 1. Generar una alerta con JavaScript que salude al usuario al cargar la página.
     * Solucion: [Tp1-ProgC-JS-01](http://progc.epizy.com/Tp1-ProgC/Tp1-ProgC-JS-01/punto-JS-01.html)
+2. Crear un input text para ingresar tu nombre, luego crear un boton que al hacer click te muestre en un alert el nombre ingresado.
+    * Solucion: [Tp1-ProgC-JS-02](http://progc.epizy.com/Tp1-ProgC/Tp1-ProgC-JS-02/punto-JS-02.html)

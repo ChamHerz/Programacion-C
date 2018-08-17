@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
+	<title>JS - 02</title>
+	<script type="text/javascript">
+		function hola (unNombre)
+		{
+			alert("su nombre es: " + unNombre);
+			console.log(unNombre);
+		}
+	</script>
+</head>
+<body>
+	<form>
+		<input type="text" placeholder="Ingrese nombre" name="nombre" id="idNombre">
+		<input type="button" name="boton" value="Validador" onclick="hola(idNombre.value);">
+	</form>
+</body>
+</html>
