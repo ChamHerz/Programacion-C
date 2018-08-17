@@ -11,13 +11,13 @@
 4. Generar un documento HTML color negro de fondo y el texto en blanco.
     * Solucion: [Tp1-ProgC-HTML-04](http://progc.epizy.com/Tp1-ProgC/Tp1-ProgC-HTML-04/punto-HTML-04.html)
 5. Generar un documento HTML con una tabla de 2 filas por 2 columnas.
-    * Solucion: [Tp1-ProgC-HTML-05](http://progc.epizy.com/Tp1-ProgC/Tp1-ProgC-HTML-04/punto-HTML-05.html)
+    * Solucion: [Tp1-ProgC-HTML-05](http://progc.epizy.com/Tp1-ProgC/Tp1-ProgC-HTML-05/punto-HTML-05.html)
 6. Generar un documento HTML que incluya una imagen utilizando el tag `<img`.
-    * Solucion: [Tp1-ProgC-HTML-06](http://progc.epizy.com/Tp1-ProgC/Tp1-ProgC-HTML-04/punto-HTML-06.html)
+    * Solucion: [Tp1-ProgC-HTML-06](http://progc.epizy.com/Tp1-ProgC/Tp1-ProgC-HTML-06/punto-HTML-06.html)
 7. Generar un documento HTML que tenga un enlace a `www.google.com` usando la `<a></a>`
-    * Solucion: [Tp1-ProgC-HTML-07](http://progc.epizy.com/Tp1-ProgC/Tp1-ProgC-HTML-04/punto-HTML-07.html)
+    * Solucion: [Tp1-ProgC-HTML-07](http://progc.epizy.com/Tp1-ProgC/Tp1-ProgC-HTML-07/punto-HTML-07.html)
 8. Generar 2 documentos HTML, uno que se llame doc1.html y doc2.html. En ambos documentos debe aparecer un encale `<a></a>` que lo vincule al otro.
-    * Solucion: [Tp1-ProgC-HTML-08](http://progc.epizy.com/Tp1-ProgC/Tp1-ProgC-HTML-04/punto-HTML-08.html)
+    * Solucion: [Tp1-ProgC-HTML-08](http://progc.epizy.com/Tp1-ProgC/Tp1-ProgC-HTML-08/punto-HTML-08.html)
 
 ### CSS
 1. Discutir ventajas y desventajas de utilizar estilos sobre como aplicar estilos gráficos a un sitio web.
