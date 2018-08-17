@@ -28,8 +28,13 @@
     - Definiendo una hoja de estilos en un archivo CSS y referenciándola en cada archivo HTML.
         - En elementos que solo aparecen un una sola pagina web, y que sabemos que no apareceran repetidos en otra parte cargarlas en un archivo CSS puede no se eficiente, pusto que se cargará el codigo para todas las paginas del sitio.
 2. Generar un archivo CSS que defina el tipo de fuente, el tamaño y el color para todo un sitio. Realizar un documento HTML que vincule a ese archivo CSS en donde se pueda visualizar el formato generado.
+<<<<<<< HEAD
     * Solucion: [Tp1-ProgC-CSS-01](http://progc.epizy.com/Tp1-ProgC/Tp1-ProgC-CSS-01/punto-CSS-01.html)
 3. Generar un archivo CSS que defina un tipo de color distinto para cada una de las siguientes etiquetas HTML: `<p>, <h1>, <h2>, <h3>`.
     * Solucion: [Tp1-ProgC-CSS-02](http://progc.epizy.com/Tp1-ProgC/Tp1-ProgC-CSS-02/punto-CSS-02.html)
 4. Generar un archivo CSS que defina estilos para el formato de los enlaces `<a></a>`.
     * Solucion: [Tp1-ProgC-CSS-03](http://progc.epizy.com/Tp1-ProgC/Tp1-ProgC-CSS-03/punto-CSS-03.html)
+=======
+3. Generar un archivo CSS que defina un tipo de color distinto para cada una de las siguientes etiquetas HTML: `<p>, <h1>, <h2>, <h3>`.
+4. Generar un archivo CSS que defina estilos para el formato de los enlaces `<a></a>`.
+>>>>>>> 1bbf6044a7b7990e95eca1923e7654402b9bd6af
