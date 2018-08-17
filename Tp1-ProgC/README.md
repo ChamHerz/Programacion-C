@@ -40,5 +40,7 @@
 ### JAVASCRIPT
 1. Generar una alerta con JavaScript que salude al usuario al cargar la página.
     * Solucion: [Tp1-ProgC-JS-01](http://progc.epizy.com/Tp1-ProgC/Tp1-ProgC-JS-01/punto-JS-01.html)
-2. Crear un input text para ingresar tu nombre, luego crear un boton que al hacer click te muestre en un alert el nombre ingresado.
+2. Crear un input text para ingresar tu nombre, luego crear un boton que al hacer click te muestre en un alert el nombre ingresado. (Ejercicio en clase)
     * Solucion: [Tp1-ProgC-JS-02](http://progc.epizy.com/Tp1-ProgC/Tp1-ProgC-JS-02/punto-JS-02.html)
+3. Crear un input text para ingresar un numero, luego crear un boton que al hacer click te muestre en un alert si ese numero ingresado es positivo o negativo. (Ejercicio en clase)
+    * Solucion: [Tp1-ProgC-JS-03](http://progc.epizy.com/Tp1-ProgC/Tp1-ProgC-JS-03/punto-JS-03.html)
