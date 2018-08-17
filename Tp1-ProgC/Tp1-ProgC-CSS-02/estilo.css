@@ -1,0 +1,18 @@
+p {
+	font-family: sans-serif;
+	font-size: 25px;
+	color: blue;
+	font-weight: bold;
+}
+
+h1 {
+	color: red;
+}
+
+h2 {
+	color: orange;
+}
+
+h3 {
+	color: violet;
+}
