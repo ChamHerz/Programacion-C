@@ -6,8 +6,9 @@
 </head>
 <body>
 	<?php
-	// Imprime ejemplo 'Versión actual de PHP: 5.3.8'
-	echo 'Versión actual de PHP: ' . phpversion();
+		echo utf8_encode("Esto es un mensaje con echo </br>");
+		echo utf8_encode("Ahora estoy probando acentos: computación </br>");
+		echo utf8_encode("Ahora testeo las ñ: niño");
 	?>
 </body>
 </html>
