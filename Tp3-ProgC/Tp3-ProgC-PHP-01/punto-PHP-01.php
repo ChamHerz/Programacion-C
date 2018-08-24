@@ -7,7 +7,15 @@
 </head>
 <body>
 	<div class="contenedor">
-		Hola
+		<div class="header">
+			cabecera
+		</div>
+		<div class="cuerpo">
+			cuerpo
+		</div>
+		<div class="footer">
+			pie
+		</div>
 	</div>
 </body>
 </html>

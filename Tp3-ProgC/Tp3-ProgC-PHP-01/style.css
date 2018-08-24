@@ -1,3 +1,19 @@
 .contenedor {
 	border: 1px solid black;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -175px;
+	margin-left: -200px;
+	width: 400px;
+	height: 350px;
+}
+.header{
+	background-color: yellow;
+}
+.cuerpo{
+	background-color: orange;
+}
+.footer{
+	background-color: red;
 }
