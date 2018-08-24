@@ -2,15 +2,12 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
-	<title>PHP - 11</title>
+	<title>PHP - 01</title>
+	<link href="style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-	<?php
-		for ( $numero = 1;  $numero < 10000 ;  $numero++ )
-		{
-		
-		}
-		echo utf8_encode($numero."</br>");
-	?>
+	<div class="contenedor">
+		Hola
+	</div>
 </body>
 </html>
