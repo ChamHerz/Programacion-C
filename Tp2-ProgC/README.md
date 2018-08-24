@@ -16,3 +16,7 @@
 ### Condicionales
 6. Sabiendo que la función rand nos retorna un valor aleatorio entre un rango de dos enteros: `$num=rand(1,100);`. En la variable $num se almacena un valor entero que la computadora genera en forma aleatoria entre 1 y 100. Hacer un programa que lo muestre por pantalla al valor generado. Mostrar además si es menor o igual a 50 o si es mayor. 
 	* Solucion: [Tp2-ProgC-PHP-06](http://progc.epizy.com/Tp2-ProgC/Tp2-ProgC-PHP-06/punto-PHP-06.php)
+7. Generar un valor aleatorio entre 1 y 3. Luego imprimir en castellano el número (Ej. si se genera el 3 luego mostrar en la página el string "tres").
+	* Solucion: [Tp2-ProgC-PHP-07](http://progc.epizy.com/Tp2-ProgC/Tp2-ProgC-PHP-07/punto-PHP-07.php)
+8. Definir el nombre del usuario en una variable. Esta puede tomar valores “Juan” o “John” aleatoriamente. Si el valor es “Juan”, imprimir “Hola Juan”, si el valor es “John”, imprimir “Hello John”.
+	* Solucion: [Tp2-ProgC-PHP-08](http://progc.epizy.com/Tp2-ProgC/Tp2-ProgC-PHP-08/punto-PHP-08.php)
