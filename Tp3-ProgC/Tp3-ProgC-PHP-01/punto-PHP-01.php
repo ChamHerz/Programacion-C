@@ -8,13 +8,24 @@
 <body>
 	<div class="contenedor">
 		<div class="header">
-			cabecera
+			<img src="http://imagenti.li/xJj.png">
 		</div>
 		<div class="cuerpo">
-			cuerpo
+			<div class="row-input">
+				<span>Cuenta Microsoft</span><a href="#">¿Qué es esto?</a>
+			</div>
+			<div class="row-input">
+				<input class="input-text" type="text" name="email" placeholder="alguien@example.com" maxlength="30">
+			</div>
+			<div class="row-input">
+				<input class="input-text" type="pass" name="pass" placeholder="Contraseña" maxlength="30">
+			</div>
+			<div class="row-input">
+				<input type="checkbox" name="session-holder" value="session">Mantener la sesión iniciada
+			</div>
 		</div>
 		<div class="footer">
-			pie
+			<input class="boton-form" type="submit" name="login" value="Iniciar sesión">
 		</div>
 	</div>
 </body>

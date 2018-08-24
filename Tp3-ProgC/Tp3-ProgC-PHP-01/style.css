@@ -3,17 +3,36 @@
 	position: absolute;
 	top: 50%;
 	left: 50%;
-	margin-top: -175px;
-	margin-left: -200px;
-	width: 400px;
-	height: 350px;
+	margin-top: -150px;
+	margin-left: -150px;
+	width: 300px;
+	height: 275px;
+	padding: 30px;
+	font-family: sans-serif;
 }
 .header{
-	background-color: yellow;
 }
 .cuerpo{
-	background-color: orange;
+	padding-top: 35px;
+	font-size: 14px;
+}
+.cuerpo a {
+	text-decoration: none;
+	margin-left: 5px;
+}
+.input-text {
+	width: 100%;
+	padding: 6px;
+}
+.row-input{
+	margin-bottom: 5px;
 }
 .footer{
-	background-color: red;
+	padding-top: 30px;
+}
+.boton-form{
+	background-color: #0072c6;
+	color: white;
+	padding: 6px 10px 6px 10px;
+	font-weight: bold;
 }
