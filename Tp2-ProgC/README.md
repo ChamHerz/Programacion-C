@@ -20,3 +20,7 @@
 	* Solucion: [Tp2-ProgC-PHP-07](http://progc.epizy.com/Tp2-ProgC/Tp2-ProgC-PHP-07/punto-PHP-07.php)
 8. Definir el nombre del usuario en una variable. Esta puede tomar valores “Juan” o “John” aleatoriamente. Si el valor es “Juan”, imprimir “Hola Juan”, si el valor es “John”, imprimir “Hello John”.
 	* Solucion: [Tp2-ProgC-PHP-08](http://progc.epizy.com/Tp2-ProgC/Tp2-ProgC-PHP-08/punto-PHP-08.php)
+
+### Ciclo de control
+9. Utilizando alguna estructura de control imprimir los número del 1 al 10.
+	* Solucion: [Tp2-ProgC-PHP-09](http://progc.epizy.com/Tp2-ProgC/Tp2-ProgC-PHP-09/punto-PHP-09.php)
