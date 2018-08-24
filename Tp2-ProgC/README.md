@@ -10,3 +10,5 @@
 	* Solucion: [Tp2-ProgC-PHP-03](http://progc.epizy.com/Tp2-ProgC/Tp2-ProgC-PHP-03/punto-PHP-03.php)
 4. Definir un script que incluya variables con todas las edades de los alumnos de la clase y que muestre el promedio del mismo.
 	* Solucion: [Tp2-ProgC-PHP-04](http://progc.epizy.com/Tp2-ProgC/Tp2-ProgC-PHP-04/punto-PHP-04.php)
+5. Usar un arreglo para cargar los nombres de los días de la semana: Lunes, martes, miércoles, etc. Luego imprimir el nombre del 3 día de la semana.
+	* Solucion: [Tp2-ProgC-PHP-05](http://progc.epizy.com/Tp2-ProgC/Tp2-ProgC-PHP-05/punto-PHP-05.php)
