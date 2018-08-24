@@ -24,3 +24,5 @@
 ### Ciclo de control
 9. Utilizando alguna estructura de control imprimir los número del 1 al 10.
 	* Solucion: [Tp2-ProgC-PHP-09](http://progc.epizy.com/Tp2-ProgC/Tp2-ProgC-PHP-09/punto-PHP-09.php)
+10. Utilizando alguna estructura de control imprimir solo los números 1, 2 y 5.
+	* Solucion: [Tp2-ProgC-PHP-10](http://progc.epizy.com/Tp2-ProgC/Tp2-ProgC-PHP-09/punto-PHP-10.php)
