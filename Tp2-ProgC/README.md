@@ -26,3 +26,5 @@
 	* Solucion: [Tp2-ProgC-PHP-09](http://progc.epizy.com/Tp2-ProgC/Tp2-ProgC-PHP-09/punto-PHP-09.php)
 10. Utilizando alguna estructura de control imprimir solo los números 1, 2 y 5.
 	* Solucion: [Tp2-ProgC-PHP-10](http://progc.epizy.com/Tp2-ProgC/Tp2-ProgC-PHP-10/punto-PHP-10.php)
+11. Utilizando alguna estructura de control auto incrementar una variable en 1  hasta llegar a 10000. Luego imprimir solo el valor final de la variable.
+	* Solucion: [Tp2-ProgC-PHP-11](http://progc.epizy.com/Tp2-ProgC/Tp2-ProgC-PHP-11/punto-PHP-11.php)
