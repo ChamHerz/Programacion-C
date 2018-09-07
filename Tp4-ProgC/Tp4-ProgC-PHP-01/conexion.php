@@ -7,10 +7,33 @@
 </head>
 <body>
 	<?php
-		session_start();
-		$_SESSION["variable"] = "soy una variable de session";
-		echo "Se guardo una variable de session <br />";
+		$db = [
+    		'host' => 'sql211.epizy.com',
+    		'username' => 'epiz_22548930',
+    		'password' => 'Chambers',
+    		'db' => 'epiz_22548930_myDataBase' //Cambiar al nombre de tu base de datos
+		];
+
+		//Abrir conexion a la base de datos
+		function connect($db)
+		{
+		  try {
+		      $conn = new PDO("mysql:host={$db['host']};dbname={$db['db']}", $db['username'], $db['password']);
+
+		      // set the PDO error mode to exception
+		      $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+
+		      return $conn;
+		  } catch (PDOException $exception) {
+		      exit($exception->getMessage());
+		  }
+		}
+
+		$dbConn =  connect($db);
+
+		$sql = $dbConn->prepare("SELECT * FROM Libros");
+		$sql->execute();
+		echo json_encode( $sql->fetch(PDO::FETCH_ASSOC) );
 	?>
-	<a href="file2.php">ir a file2.php para ver la variable de session</a>
 </body>
 </html>
